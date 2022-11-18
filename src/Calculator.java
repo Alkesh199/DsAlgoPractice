@@ -58,7 +58,7 @@ public class Calculator {
 				break;
 			}
 			else {
-				System.out.println("Invalid Choice");
+				System.out.println("Invalid Choice :");
 			}
 		}//end of while
 		
